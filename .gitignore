@@ -5,6 +5,7 @@ obj
 .dll
 .pdb
 .log
+.vs
 
 # User-specific files
 .user
