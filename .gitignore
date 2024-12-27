@@ -1,0 +1,33 @@
+# Build results
+bin
+obj
+.exe
+.dll
+.pdb
+.log
+
+# User-specific files
+.user
+.suo
+.userosscache
+.sln.docstates
+
+# Logs
+.log
+.tlog
+
+# Temporary files
+.tmp
+.bak
+.swp
+
+# VS Code directories
+.vscode
+
+# Dependency directories
+packages
+node_modules
+
+# Environment files
+.env
+.env.
